@@ -1,0 +1,38 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        e78f458 com.base.basket.basketbase2/.MainActivity
+
+Key Set Manager:
+  [com.base.basket.basketbase2]
+      Signing KeySets: 166
+
+Packages:
+  Package [com.base.basket.basketbase2] (3ac18e9):
+    userId=10200
+    pkg=Package{80309b1 com.base.basket.basketbase2}
+    codePath=/data/app/com.base.basket.basketbase2-1
+    resourcePath=/data/app/com.base.basket.basketbase2-1
+    legacyNativeLibraryDir=/data/app/com.base.basket.basketbase2-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=1 targetSdk=23
+    versionName=1.0
+    splits=[base]
+    applicationInfo=ApplicationInfo{6253e96 com.base.basket.basketbase2}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/user/0/com.base.basket.basketbase2
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2016-01-23 19:26:25
+    firstInstallTime=2016-01-23 16:53:22
+    lastUpdateTime=2016-01-23 19:26:27
+    signatures=PackageSignatures{bc1e09c [4f18a17]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.INTERNET
+    install permissions:
+      android.permission.INTERNET: granted=true
+    User 0:  installed=true hidden=false stopped=false notLaunched=false enabled=0
+      gids=[3003]
+      runtime permissions:

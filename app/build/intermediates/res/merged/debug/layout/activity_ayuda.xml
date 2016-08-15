@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="15dp"
+            android:text="Bienvenido al nuevo diseño de Basket Base. En esta pantalla le explicaremos las novedades y las dudas que le puedan surgir.\n\nPara empezar, podrá ver las pestañas en la ventana principal en las que puede desplazar hacia un lado la pantalla para poder cambiar el contenido entre noticias y marcadores."/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="370dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/ss_inicio"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="15dp"
+            android:text="La gran novedad de esta última actualización es que, a través de los marcadores de la pantalla principal o en el calendario, podrá enviar el resultado de los partidos nada mas acabar hasta que el responsable del equipo lo confirme."/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/ss_cale"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginBottom="15dp"
+            android:text="Si accede al calendario verá que al lado del nombre de cada equipo hay una estrella, si la marca podrá recibir notificaciones en su smartphone(tenga o no la aplicación abierta) de los resultados de los partidos una vez confirmados por el responsable de dicho equipo."/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:layout_marginBottom="15dp"
+            android:src="@drawable/ss_equipos"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginBottom="15dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="Para acabar, si no puede ver los 3 puntos del menú en la barra de arriba es porque en su smartphone tiene un botón específico para accceder a dicho menú.\n\nMuchas gracias y disfrute con la aplicación."/>
+    </LinearLayout>
+</ScrollView>
