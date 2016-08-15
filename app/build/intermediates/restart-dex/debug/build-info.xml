@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="420dpi"
+    format="7"
+    timestamp="352323543894227"
+    token="2370887452762888550" >
+
+    <task
+        name="javac"
+        duration="1222" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4320" />
+    <task
+        name="verifier"
+        duration="2063" />
+
+    <artifact
+        location="C:\Users\Rulito\Documents\BasketBase\Android\BasketBase2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="352323543894227" >
+        <artifact
+            location="C:\Users\Rulito\Documents\BasketBase\Android\BasketBase2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

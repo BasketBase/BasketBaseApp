@@ -1,0 +1,13 @@
+Applications Graphics Acceleration Info:
+Uptime: 37615992 Realtime: 61264889
+
+** Graphics info for pid 19674 [com.base.basket.basketbase2] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0,00 kB
+

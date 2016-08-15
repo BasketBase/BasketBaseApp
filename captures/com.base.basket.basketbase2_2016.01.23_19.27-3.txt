@@ -1,0 +1,46 @@
+Applications Memory Usage (kB):
+Uptime: 37621180 Realtime: 61270077
+
+** MEMINFO in pid 19674 [com.base.basket.basketbase2] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     1217     1160        0        0     4096     3050     1045
+  Dalvik Heap      565      472        0        0    19778    14943     4835
+ Dalvik Other      124      124        0        0                           
+        Stack       72       72        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap      334       52      176        0                           
+    .apk mmap      143        0        8        0                           
+    .dex mmap      532        4      528        0                           
+    .oat mmap      490        0      140        0                           
+    .art mmap      605      344        4        0                           
+   Other mmap       10        8        0        0                           
+      Unknown       78       76        0        0                           
+        TOTAL     4174     2312      860        0    23874    17993     5880
+ 
+ App Summary
+                       Pss(KB)
+                        ------
+           Java Heap:      820
+         Native Heap:     1160
+                Code:      908
+               Stack:       72
+            Graphics:        0
+       Private Other:      212
+              System:     1002
+ 
+               TOTAL:     4174      TOTAL SWAP (KB):        0
+ 
+ Objects
+               Views:        0         ViewRootImpl:        0
+         AppContexts:        1           Activities:        0
+              Assets:        2        AssetManagers:        2
+       Local Binders:        3        Proxy Binders:        8
+       Parcel memory:        6         Parcel count:        9
+    Death Recipients:        0      OpenSSL Sockets:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
