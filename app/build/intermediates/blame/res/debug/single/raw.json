@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Rulito\\Documents\\BasketBase\\Android\\BasketBase2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "C:\\Users\\Rulito\\Documents\\BasketBase\\Android\\BasketBase2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.3.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Pablo\\Desktop\\Proyectos\\BasketBaseApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Pablo\\Desktop\\Proyectos\\BasketBaseApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.3.0\\res\\raw\\gtm_analytics"
     }
 ]

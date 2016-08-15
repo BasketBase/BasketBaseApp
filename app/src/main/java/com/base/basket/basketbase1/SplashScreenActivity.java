@@ -3,8 +3,7 @@ package com.base.basket.basketbase1;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-
-import com.base.basket.basketbase1.R;
+import android.util.Log;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -28,5 +27,7 @@ public class SplashScreenActivity extends Activity {
 
         Timer timer = new Timer();
         timer.schedule(task, SPLASH_SCREEN_DELAY);
+
+        Log.i("GIT", "PRUEBA");
     }
 }
